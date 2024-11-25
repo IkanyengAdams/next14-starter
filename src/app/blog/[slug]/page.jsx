@@ -1,10 +1,10 @@
-const SinglePost
+const SinglePostPage
  = () => {
   return(
-    <div>SinglePost
-      
+    <div>SinglePostPage
+
     </div>
   )
 }
 
-export default SinglePost
+export default SinglePostPage
